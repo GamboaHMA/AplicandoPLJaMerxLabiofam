@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AplicandoPLJaMerxLabiofam_/1.0.0": {
+        "dependencies": {
+          "Algoritms_": "1.0.0"
+        },
+        "runtime": {
+          "AplicandoPLJaMerxLabiofam_.dll": {}
+        }
+      },
+      "Algoritms_/1.0.0": {
+        "runtime": {
+          "Algoritms_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicandoPLJaMerxLabiofam_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algoritms_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
